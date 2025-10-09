@@ -1,0 +1,7 @@
+requests
+faker
+telebot
+ipaddress
+pyTelegramBotAPI
+urllib3
+flask
