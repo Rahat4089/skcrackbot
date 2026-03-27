@@ -1,4 +1,6 @@
 requests
+python
+tgcrypto
 faker
 telebot
 ipaddress
