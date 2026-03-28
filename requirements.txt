@@ -6,4 +6,5 @@ telebot
 ipaddress
 pyTelegramBotAPI
 urllib3
-flask
+aiofiles
+aiohttp
