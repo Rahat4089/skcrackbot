@@ -15,7 +15,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-TOKEN = '8009378045:AAGjYn7iN9iCXrSlsmkRlq04utJisIayU1c'
+TOKEN = '8330545350:AAFrJJ5lfnkTHKkMYeFGeX1SxoV4wMvrlls'
 bot = telebot.TeleBot(TOKEN)
 
 approved_users = set()
