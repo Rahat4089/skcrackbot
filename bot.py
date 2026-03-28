@@ -21,8 +21,8 @@ from pyrogram.enums import ParseMode
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Bot configuration
-API_ID = 123456  # Replace with your API ID
-API_HASH = "your_api_hash"  # Replace with your API hash
+API_ID = 23933044
+API_HASH = "6df11147cbec7d62a323f0f498c8c03a"
 BOT_TOKEN = "8330545350:AAFrJJ5lfnkTHKkMYeFGeX1SxoV4wMvrlls"  # Your bot token
 OWNER_ID = 7125341830  # Replace with your Telegram user I
 app = Client(
